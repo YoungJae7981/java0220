@@ -1,3 +1,15 @@
 body {
   font-size: 16px;
 }
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
